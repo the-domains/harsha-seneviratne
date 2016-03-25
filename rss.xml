@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Actor]]></title>
         <description><![CDATA[Actor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/harsha-seneviratne/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 12:10:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Mar 2016 01:49:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/harsha-seneviratne/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/harsha-seneviratne/f4906fb7-b8c6-4596-9bd4-75742baee8aa/index.html</link>
+            <guid isPermaLink="false">f4906fb7-b8c6-4596-9bd4-75742baee8aa</guid>
+            <pubDate>Fri, 25 Mar 2016 01:49:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6da8b200-3b23-4f5b-8804-c316e4409ad2.jpg">]]></description>
-            <link>undefined75c55c3e-1186-497a-bea2-c7c270f8667a/index.html</link>
+            <link>https://thegrid.ai/harsha-seneviratne/75c55c3e-1186-497a-bea2-c7c270f8667a/index.html</link>
             <guid isPermaLink="false">75c55c3e-1186-497a-bea2-c7c270f8667a</guid>
             <pubDate>Sat, 12 Mar 2016 12:10:04 GMT</pubDate>
         </item>
