@@ -4,15 +4,8 @@
         <description><![CDATA[Actor]]></description>
         <link>https://thegrid.ai/harsha-seneviratne/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 09:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 09:02:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/harsha-seneviratne/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Vision]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75a2e765-6a17-49a9-843f-7dace4a3fafc.jpg">]]></description>
-            <link>https://thegrid.ai/harsha-seneviratne/vision/index.html</link>
-            <guid isPermaLink="false">0dd6deb7-9518-419e-90d9-baaf77d2a000</guid>
-            <pubDate>Thu, 21 Apr 2016 09:02:31 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Teachings]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5af432a4-71f6-4300-8379-d554ed7c33da.jpg">]]></description>
@@ -33,6 +26,13 @@
             <link>https://thegrid.ai/harsha-seneviratne/payments/index.html</link>
             <guid isPermaLink="false">ed099ee4-7d71-4249-868a-f50a9856a644</guid>
             <pubDate>Thu, 21 Apr 2016 08:34:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vision]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/75a2e765-6a17-49a9-843f-7dace4a3fafc.jpg">]]></description>
+            <link>https://thegrid.ai/harsha-seneviratne/vision/index.html</link>
+            <guid isPermaLink="false">0dd6deb7-9518-419e-90d9-baaf77d2a000</guid>
+            <pubDate>Thu, 21 Apr 2016 08:16:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
