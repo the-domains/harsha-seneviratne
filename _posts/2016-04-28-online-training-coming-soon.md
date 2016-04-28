@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'ONLINE TRAINING - COMING SOON!!!'
-datePublished: '2016-04-28T06:18:16.992Z'
-dateModified: '2016-04-28T06:15:14.355Z'
+datePublished: '2016-04-28T08:10:42.771Z'
+dateModified: '2016-04-28T06:18:26.427Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-28-online-training-coming-soon.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-online-training-coming-soon.md
-published: true
 url: online-training-coming-soon/index.html
 _type: Article
 
